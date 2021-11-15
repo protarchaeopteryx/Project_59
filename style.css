@@ -1,0 +1,15 @@
+body{
+	text-align:center;
+	font-family: 'Dosis', sans-serif;
+}
+#title{
+	background-image: linear-gradient(to bottom left, blue, aquamarine);
+	padding-top:76px;
+	padding-bottom:36px;
+}
+h1{
+	font-size: 56px;
+}
+#pe{
+	font-size: 45px;
+}
